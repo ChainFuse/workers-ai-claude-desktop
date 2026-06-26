@@ -58,7 +58,7 @@ app.doc('/generate/v1.waicd.cf-apig.openapi', (c) => ({
 	},
 	servers: [
 		{
-			url: 'https://waicd.demosjarco.dev',
+			url: 'https://waicd.sushidata.ai',
 		},
 	],
 	security: [{ cfAccess: [] }],
